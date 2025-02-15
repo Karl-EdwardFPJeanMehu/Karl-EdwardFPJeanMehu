@@ -1,7 +1,7 @@
 <h1>Hi, I'm Karl-Edward! <br/><a href="https://github.com/Karl-EdwardFPJeanMehu">Software Engineer</a>, <a href="https://www.linkedin.com/in/karledwardjeanmehu/">Information Technology / Cybersecurity Professional</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
-  - [USI (React.JS SPA)](https://github.com/Karl-EdwardFPJeanMehu/usisite)<br/>[Link](https://usisite.netlify.app/)
+  - USI (React.JS SPA)[repo](https://github.com/Karl-EdwardFPJeanMehu/usisite)<br/>[Link](https://usisite.netlify.app/)
   - [Spawner](https://bitbucket.org/Webbrat/spawnerai)<br/>[Link](https://clientspawner.netlify.app/)
 
 <h2>Information Technology / Cybersecurity Projects</h2>
