@@ -1,13 +1,68 @@
-<h1>Hi, I'm Karl-Edward! <br/><a href="https://github.com/Karl-EdwardFPJeanMehu">Software Engineer</a>, <a href="https://www.linkedin.com/in/karledwardjeanmehu/">Information Technology / Cybersecurity Professional</a>
+# Hi, Karl-Edward here!
+I'm Software Engineer with a background in Information Technology / Cybersecurity Professional. I love developing tech from building useful applications and systems using microservices, docker, React, Node and more. Cybersecurity is a an other interest of mine and enjoy learning and securing systems and infrastructure.
 
-<h2>👨‍💻 Software Development Projects:</h2>
-  - USI (React.JS SPA) [repo](https://github.com/Karl-EdwardFPJeanMehu/usisite)<br/>[Link](https://usisite.netlify.app/)
-  - [Spawner](https://bitbucket.org/Webbrat/spawnerai)<br/>[Link](https://clientspawner.netlify.app/)
+<!--
+## Table of Contents
+1. [Software Development Projects](#Software_Development)
+2. [Information Technology / Cybersecurity Projects](#it_cybersecurity)
+3. [Connect With Me](#connect-with-me)
+-->
 
-<h2>Information Technology / Cybersecurity Projects</h2>
+## <a name="Software_Development">👨‍💻 Software Development Projects:</a>
 
-- <b>Python</b>
-  - [File Patrole a File Integrity Monitor (FIM)](https://github.com/Karl-EdwardFPJeanMehu/file_patrole)
+**USI Department Intranet Portal**
+[ [unofficial repository](https://github.com/Karl-EdwardFPJeanMehu/usisite) ] <nbsps /> [ [website](https://usisite.netlify.app/) ]
+<!--
+> **Objective**:
+> <p>The USI department required a centralized intranet portal to streamline information access and provide a gateway to their extensive suite of microservices-based applications and services for internal staff and partner branches.</p>
+>
+> **Challenges**:
+> 
+>  - Lack of centralized information for internal and branch users.  
+>  - Need for seamless access to various applications and services.<br />
+>
+> **Solution**: 
+>  - Designed and developed a user-friendly, responsive intranet site.  
+>  - Integrated access points to other internal applications and services.  
+>  - Managed deployment and ensured maintenance for consistent performance and updates.<br />
+>
+> **Role**
+> <p>As the sole designer and developer, I took full ownership of the USI intranet site's creation. I was responsible for every stage, from initial design concepts to final deployment and ongoing maintenance of both the site and its associated microservices.</p>
+>
+> **Results**: 
+>  - Provided a centralized hub for information and applications, streamlining internal processes.
+>  - Improved accessibility for internal and branch users.<br />
+>
+> #### Tools & Technologies
+> - Docker, Photoshop, ReactJS, NodeJS, CSS, HTML, Linux
+-->
+
+**MVP Website for Startup**
+[ [website](https://clientspawner.netlify.app/) ]
+<!-- 
+> **Objective**:
+> <p>The USI department required a centralized intranet portal to streamline information access and provide a gateway to their extensive suite of microservices-based applications and services for internal staff and partner branches.</p>
+>
+> **Challenges**:
+> 
+> - Convert the base design into a fully functional, responsive website.
+> - Ensure the website is visually appealing with smooth animations.<br />
+>
+> **Solution**: 
+>  - Implemented the provided design, ensuring responsiveness across devices.
+>  - Added animations to enhance the user experience.<br />
+>
+> **Results**: 
+> - Delivered an MVP website that was visually engaging and fully responsive for users on any device.
+>
+> #### Tools & Technologies
+> - React, CSS, HTML, Figma
+-->
+
+## <a name="it_cybersecurity">💻 Information Technology / Cybersecurity Projects</a>
+
+**File Patrole - File Integrity Monitor (FIM)** 
+[ [repository](https://github.com/Karl-EdwardFPJeanMehu/file_patrole) ]
   <!-- - [ESXI Rasberry Pi Installation](https://github.com/Karl-EdwardFPJeanMehu/) -->
 
 <!-- <h2>📺 Popular YouTube Videos</h2> -->
