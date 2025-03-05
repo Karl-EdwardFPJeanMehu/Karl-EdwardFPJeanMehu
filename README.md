@@ -61,7 +61,7 @@ I’m a Software Engineer with a background in Information Technology and Cybers
 
 ## <a name="it_cybersecurity">💻 Information Technology / Cybersecurity Projects</a>
 
-**File Patrole - File Integrity Monitor (FIM)** 
+**File Patrole - File Integrity Monitor (FIM) / CLI** 
 [ [repository](https://github.com/Karl-EdwardFPJeanMehu/file_patrole) ]
   <!-- - [ESXI Rasberry Pi Installation](https://github.com/Karl-EdwardFPJeanMehu/) -->
 
