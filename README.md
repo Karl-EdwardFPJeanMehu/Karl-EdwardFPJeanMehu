@@ -1,5 +1,5 @@
 # Hi, Karl-Edward here!
-I'm Software Engineer with a background in Information Technology / Cybersecurity Professional. I love developing tech from building useful applications and systems using microservices, docker, React, Node and more. Cybersecurity is a an other interest of mine and enjoy learning and securing systems and infrastructure.
+I’m a Software Engineer with a background in Information Technology and Cybersecurity. I enjoy developing and sharing technology, from building useful applications and systems using microservices, Docker, React, and Node.js to exploring cybersecurity. Learning about and securing systems and infrastructure is another passion of mine.
 
 <!--
 ## Table of Contents
